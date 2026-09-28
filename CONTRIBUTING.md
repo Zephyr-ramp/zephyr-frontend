@@ -4,7 +4,7 @@ Thanks for helping build an open USD ⇄ USDC ramp on Stellar.
 
 ## Setup
 
-Requirements: Node.js 20+.
+Requirements: Node.js 20.9+ with npm 11+ (Node 24 ships it; the lockfile is npm 11 format).
 
 ```bash
 git clone https://github.com/<you>/zephyr-frontend
